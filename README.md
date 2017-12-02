@@ -1,0 +1,2 @@
+# safeenvatostock
+file.js
